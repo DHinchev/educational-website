@@ -1,7 +1,5 @@
-This is one of my earliest websites I have worked on during my third year in university.
-School-Journal is a CAL (Computer Aided Learning) type of website, it helps people mainly in the educational
-sector to learn, teach and gather information about different subjects and topics they are interested in.
-It is a work in progress and there are more features that will be added.
+The website name is School-Journal. It's a CAL (Computer Aided Learning) website, its' purpose is to help people, mainly in the educational sector to learn, teach and gather information about different subjects and topics they are interested in.
+It is a work in progress and there are more features that will be added in the future. The website is written in PHP.
 
 To run the website - install (preferably in C/ drive) and run XAMPP.
 Go in the installed XAMPP folder, then in htdocs. In that folder place the scooljournal folder from GitHub
@@ -30,3 +28,5 @@ like to view all the functionalities of the website.
 
 This is tested an run on Windows.
 The code needs will have to be refactored and files will be renamed in future updates.
+
+This is one of my earliest websites I have worked on during my third year in university. It was a great way for me to learn how to build a website from end to end. There is a lot to improve in the code and I will do that sometime in the near future, however comparing it with my latest personal projects I have come a long way. The learning never stops.
